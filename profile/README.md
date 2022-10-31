@@ -18,6 +18,7 @@ NLS is an organization with a gaming community built upon the principle of matur
 
 ## 👨‍💻 Meet the Next Level Gaming team
 <p align="center">
- <a href=https://ko-fi.com/Neology><img width="420" src=https://github-readme-stats.vercel.app/api?username=craigr218&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=true><a>
+ <img width="420" src=https://github-readme-stats.vercel.app/api?username=craigr218&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=true>
+  <img width="420" src=https://github-readme-stats.vercel.app/api?username=AxiomJohnny&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=true>
 </p>   
    
