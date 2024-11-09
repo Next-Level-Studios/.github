@@ -24,7 +24,7 @@ NLS is an organization with a gaming community built upon the principle of matur
  <img width="420" src=https://github-readme-stats.vercel.app/api?username=JordanX05&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=true> <br />
  <img width="420" src=https://github-readme-stats.vercel.app/api?username=m4tty6&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=true> <br />
  <img width="420" src=https://github-readme-stats.vercel.app/api?username=MrDanielOx&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=true> <br />
- <img width="420" src=https://github-readme-stats.vercel.app/api?username=Murphy&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=true> <br />
+ <img width="420" src=https://github-readme-stats.vercel.app/api?username=Murckle&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=true> <br />
 
 
 
